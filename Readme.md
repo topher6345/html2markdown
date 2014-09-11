@@ -31,7 +31,7 @@ gem 'html2markdown'
 
 ### CLI usage
 
-``shell
+```shell
 html2markdown [file]
 ```
 
@@ -39,6 +39,6 @@ The command line tool with print the markdown to stdout. You can then redirect t
 
 Ex.
 
-```shelll
+```shell
 html2markdown index.html > index.md
 ```
